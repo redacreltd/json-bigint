@@ -1,5 +1,8 @@
 # json-bigint
 
+This package is a fork of [json-bigint](https://github.com/sidorares/json-bigint). The original package is no longer 
+maintained, so we decided to fork it and maintain it ourselves.
+
 [![Build Status](https://secure.travis-ci.org/sidorares/json-bigint.png)](http://travis-ci.org/sidorares/json-bigint)
 [![NPM](https://nodei.co/npm/json-bigint.png?downloads=true&stars=true)](https://nodei.co/npm/json-bigint/)
 
