@@ -1,5 +1,5 @@
 {
-  "name": "json-bigint",
+  "name": "json-bigint-ra",
   "version": "1.0.0",
   "description": "JSON.parse with bigints support",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https@github.com/sidorares/json-bigint.git"
+    "url": "git+https@github.com:redacreltd/json-bigint.git"
   },
   "keywords": [
     "JSON",
